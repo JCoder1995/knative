@@ -1,1 +1,1 @@
-FROM gcr.io/serving.knative.dev/v0.20.0
+FROM gcr.io/serving.knative.dev/release-v0.20.0
